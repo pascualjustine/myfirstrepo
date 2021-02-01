@@ -9,5 +9,4 @@
      <p>Welcome to my page [Write your Fullname here]</p>
 </body>
 </html>
-You sent Today at 5:32 PM
-Ri nko pre oh
+
